@@ -2,7 +2,7 @@
 
 This project includes select labs that I designed as a Graduate Student Instructor (GSI) for SI507 Intermmediate Programming at the University of Michigan, School of Information (UMSI).
 
-This project is made up of work that was completely my own during my time as a GSI. It is also stripped of course details and solutions to protect the integrity of the course.
+This project is made up of work that was completely my own during my time as a GSI. It is also stripped of course details and solutions to protect the integrity of the course. You can contact me (avliu@umich.edu) for solutions.
 
 There are four labs contained in this project. Three of them, api, functions_as_aruguments, and scraping, are made up of a presentation and corresponding python notebook exercise(s). While some content for presentation materials existed, no prior lab Python notebooks existed for this course. The notebooks are designed with scaffolding to remove unnecessary time developing "boiler-plate" code. 
 
